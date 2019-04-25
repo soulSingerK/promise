@@ -10,3 +10,4 @@ new Promise((resolve, reject) => {
 })
 
 console.log(2)
+console.log(4)
